@@ -1,6 +1,6 @@
 # AppLoading
 
-[![pub package](https://img.shields.io/pub/v/app_loading.svg)](https://pub.dev/packages/app_loading)
+[![pub package](https://img.shields.io/pub/v/app_loading.svg)]([https://pub.dev/packages/app_loading](https://pub.dev/packages/flutter_app_loading_indicator))
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A customizable, easy-to-use loading overlay for Flutter applications using Lottie animations.
