@@ -1,6 +1,6 @@
 name: flutter_app_loading_indicator
 description: "A package for custom loading indicator for app, you can also add lottie or app logo"
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
