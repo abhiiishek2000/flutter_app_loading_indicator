@@ -1,6 +1,6 @@
 # AppLoading
 
-[![pub package](https://img.shields.io/pub/v/app_loading.svg)]([https://pub.dev/packages/flutter_app_loading_indicator])
+[![pub package](https://img.shields.io/pub/v/app_loading.svg)](https://pub.dev/packages/flutter_app_loading_indicator)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A customizable, easy-to-use loading overlay for Flutter applications using Lottie animations.
@@ -47,11 +47,13 @@ import 'package:app_loading/app_loading.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  AppLoading.initialize(
+  runApp(MyApp());
+
+///Initialise loader
+ AppLoading.initialize(
     lottieAssetName: 'assets/your_loading_animation.json',
     backgroundColor: Colors.black.withOpacity(0.5),
   );
-  runApp(MyApp());
 }
 ```
 
